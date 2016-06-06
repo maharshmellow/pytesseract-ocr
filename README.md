@@ -1,2 +1,3 @@
-# pytesseract-ocr
-simple ocr using pytesseract
+### REQUIREMENTS
+- pytesseract
+- PIL
